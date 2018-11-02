@@ -103,6 +103,7 @@ hr {
   position:relative;
   height:40px;
   width:1px;
+  vertical-align: text-top;
   border: 0.5px solid rgb(143, 129, 129);
 }
 
